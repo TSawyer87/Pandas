@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "11c188eababd41d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "067c6d61b6f98f5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5767f5ae6b608b58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Pandas/1.2a_Indexing, Selecting &amp; Assigning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de945f1661801611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Pandas/1.2_Indexing in pandas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6fc1070ab9a21b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Pandas/1.2b_Label-based selection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "862146cae8bee8be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Pandas/1.2d_Manipulating the index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4eb92ce66b376b8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Pandas/1.2d_Manipulating the index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18d1ba26506fea74",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a057e19d3347ae5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd9d3df41cbc59eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c1387d433b3c67b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bbfa0f93000d024",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#pandas",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "615309ebde9c86c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "30714f1713d0a43a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26a4d6b133cd735f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbeef60d3c07cc90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83c30c27402e0e9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1_Pandas/1.2a_Indexing, Selecting &amp; Assigning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6aa96c0cd7dc19c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1_Pandas/1.2a_Indexing, Selecting &amp; Assigning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33d6f146f58fae6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b93529babc163a44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1_Pandas/1.2a_Indexing, Selecting &amp; Assigning.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obisidian-note-linker:Note Linker": false
+    }
+  },
+  "active": "8c1387d433b3c67b",
+  "lastOpenFiles": [
+    "1_Pandas/1.1dAssigning Data.md",
+    "1_Pandas/1.2a_Indexing, Selecting &amp; Assigning.md",
+    "1_Pandas/1.2_Indexing in pandas.md",
+    "1_Pandas/1.1cCreating a pandas DataFrame with NumPy Arrays.md",
+    "1_Pandas/1.1b_Creating a pandas DataFrame From Files.md",
+    "1_Pandas/1.1a_Creating a pandas DataFrame.md",
+    "1_Pandas/1.2c_Conditional selection.md",
+    "1_Pandas/Pandas.md",
+    "1_Pandas/pandasVault.md",
+    "1_Pandas/1.1_Data Structures.md",
+    "3_Daily Notes",
+    "Vault.md",
+    "Untitled.canvas",
+    "1_Pandas/1.2d_Manipulating the index.md",
+    "1_Pandas/1.2b_Label-based selection.md",
+    "2_Templates/01 Template.md",
+    "3_Daily Notes/2024-04-27.md",
+    "2_Templates",
+    "Untitled.md",
+    "Welcome.md",
+    "Pandas/.md",
+    "1_Pandas",
+    ".md",
+    "Tags"
+  ]
+}
