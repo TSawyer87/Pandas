@@ -1,3 +1,10 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Obsidian Nord",
+  "theme": "obsidian",
+  "baseFontSize": 22,
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "FiraCode Nerd Font,Hack Nerd Font",
+  "textFontFamily": "Hack Nerd Font",
+  "monospaceFontFamily": "FiraCode Nerd Font"
 }
